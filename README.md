@@ -18,4 +18,4 @@ To empower digital artists by providing a secure and decentralized platform for 
 - Integration with IPFS for decentralized image storage.
 - Ownership transfer and marketplace integration.
 Contract ID:- CA7ZVSGNHLDR4CPZHFK2LXM3PXGCJJ2WNZZIWF2SD
-![alt text](image.png)
+![alt text](image-1.png)
